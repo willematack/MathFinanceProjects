@@ -12,7 +12,8 @@ For example, here is the decision boundaries for an "at the money" option under 
 This part uses Black Scholes model to price European options. Delta hedging and delta-gamma hedging strategies are implemented. The profit distribution of each strategy are analyzed under varying market conditions, and in the presence of transaction costs.
 
 For example, this visualization shows the Profit/Loss distribution of an option position when delta hedging, and delta-gamma hedging strategies are followed (with transaction costs) when realized volatilities vary (implied volatility remains constant).
-![image](https://github.com/willematack/MathFinanceProjects/assets/44038988/3fb9f4a1-5d78-495d-852b-0a8e258fdcb4)
+![image](https://github.com/willematack/MathFinanceProjects/assets/44038988/5a9ff812-1547-44cf-b9e4-ab51a69c1183)
+
 
 ## Skills
 
